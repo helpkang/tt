@@ -1,3 +1,3 @@
 # tt
 
-[link to Google!](http://google.com)
+[link to Google!](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/helpkang/tt/master/manifest.plist)
