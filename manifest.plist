@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/helpkang/tt/master/pick.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/helpkang/tt/master/maeil.57x57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/helpkang/tt/master/maeil.512x512.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -35,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>pick</string>
+				<string>Maeil Do</string>
 			</dict>
 		</dict>
 	</array>
